@@ -44,3 +44,7 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/ddb68627-65c8-4c70-9fba-fe812ab03a15 =200x200)
 stolbitsa.com/fistachka/klen3<br><br>
 
+
+![4](https://github.com/user-attachments/assets/73238e39-4367-4b3c-ad30-69583d4250d9)
+![3](https://github.com/user-attachments/assets/1389d45b-bc86-4bd9-9ce9-fbba3e6186a1)
+
