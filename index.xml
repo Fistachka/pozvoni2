@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>pozvoni2</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="Fistachka" repo="pozvoni3"/>
   <readme>
     <ru>a4d9907629972e536470dcdf570cc0759e0e464271e95a5107f96c88d351e842</ru>
@@ -110,8 +110,8 @@
       <note number="4" values="18" ticks="285" durationTicks="49" ppq="96" velocity="0.772"/>
       <note number="5" values="38" ticks="334" durationTicks="41" ppq="96" velocity="0.827"/>
       <note number="6" values="58" ticks="382" durationTicks="46" ppq="96" velocity="0.827"/>
-      <note number="7" values="78" ticks="431" durationTicks="47" ppq="96" velocity="0.827"/>
-      <note number="8" values="68" ticks="486" durationTicks="99" ppq="96" velocity="0.827"/>
+      <note number="7" values="78" ticks="445" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="8" values="68" ticks="539" durationTicks="99" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="7">
