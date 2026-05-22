@@ -3,7 +3,7 @@
 «Позвони мне, позвони!» из к/ф "Карнавал"1981г. 2 часть
 ![4](https://github.com/user-attachments/assets/73238e39-4367-4b3c-ad30-69583d4250d9)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/zbX41X-MqpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/I22BfF4EnQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Без тебя проходят дни.
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/pozvoni<br><br>
 "Pozvoni mne, pozvoni!" (Call me, call me) from the film "Carnival" (1981) 2 st verse
 ![4](https://github.com/user-attachments/assets/73238e39-4367-4b3c-ad30-69583d4250d9)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/zYZAnG3VaGg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/WNcJGlaZnWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Bez tebya prohodyat dni.
